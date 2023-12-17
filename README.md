@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Fazlı Altun, a passionate Mobile Developer from Istanbul/Turkey. Welcome to my GitHub profile!
+I'm Fazlı Altun, a passionate Mobile Developer from Istanbul/Turkey. I am working as an iOS Developer intern in Orion Innovation. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
