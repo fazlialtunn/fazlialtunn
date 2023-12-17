@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**fazlialtunn/fazlialtunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fazlı Altun, a passionate Mobile Developer from Istanbul/Turkey. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently a junior student majoring in Computer Engineering at Bahcesehir University.
+- 💻 I'm deeply interested in Mobile development especially with Swift & Flutter.
+- 🌱 I’m currently developing my iOS development skills with SwiftUI and UIKit.
+
+## 🔧 Technologies & Tools
+
+Here are some technologies and tools that I'm familiar with:
+
+- Swift, SwiftUI, UIKit
+- Xcode
+- CocoaPods
+- RESTful APIs
+- Flutter
+- Firebase
+
+  
+## 🛠️ Projects
+
+Here are some projects that I'm proud of:
+
+1. Yummie https://github.com/fazlialtunn/YummieSwift
+   - 
+
+2. Education App for Dyslexic Kids https://github.com/fazlialtunn/learning-kotlin-wproject
+   -
+
+3. Zoom Clone with Flutter https://github.com/fazlialtunn/zoom-clone-flutter
+   - 
+
+Feel free to explore my repositories to see more!
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/fazlialtunnn/
+- Twitter: https://twitter.com/faltungg
+
+Let's connect and build amazing things together! 😊
