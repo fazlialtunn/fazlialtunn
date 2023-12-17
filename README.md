@@ -24,7 +24,7 @@ Here are some technologies and tools that I'm familiar with:
 
 Here are some projects that I'm proud of:
 
-1. Yummie https://github.com/fazlialtunn/YummieSwift
+1. Yummie Food Ordering App with Swift https://github.com/fazlialtunn/YummieSwift
    - 
 
 2. Education App for Dyslexic Kids https://github.com/fazlialtunn/learning-kotlin-wproject
