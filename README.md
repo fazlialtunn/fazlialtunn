@@ -6,7 +6,7 @@ I'm Fazlı Altun, a passionate Mobile Developer from Istanbul/Turkey. I am worki
 
 - 🎓 I'm currently a junior student majoring in Computer Engineering at Bahcesehir University.
 - 💻 I'm deeply interested in Mobile development especially with Swift & Flutter.
-- 🌱 I’m currently developing my iOS development skills with SwiftUI and UIKit.
+- 🌱 I’m currently improving my iOS development skills with SwiftUI and UIKit.
 
 ## 🔧 Technologies & Tools
 
