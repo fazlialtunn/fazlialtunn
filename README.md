@@ -20,7 +20,7 @@ Here are some technologies and tools that I'm familiar with:
 - Firebase
 
   
-## 🛠️ Projects
+# 🛠️ Projects
 
 Here are some projects that I'm proud of:
 
