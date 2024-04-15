@@ -20,18 +20,18 @@ Here are some technologies and tools that I'm familiar with:
 - Firebase
 
   
-# 🛠️ Projects
+## 🛠️ Projects
 
 Here are some projects that I'm proud of:
 
 1. Yummie Food Ordering App with Swift https://github.com/fazlialtunn/YummieSwift
-   - 
+    
 
-2. Education App for Dyslexic Kids https://github.com/fazlialtunn/learning-kotlin-wproject
-   -
+3. Education App for Dyslexic Kids https://github.com/fazlialtunn/learning-kotlin-wproject
+   
 
-3. Zoom Clone with Flutter https://github.com/fazlialtunn/zoom-clone-flutter
-   - 
+4. Zoom Clone with Flutter https://github.com/fazlialtunn/zoom-clone-flutter
+   
 
 Feel free to explore my repositories to see more!
 
