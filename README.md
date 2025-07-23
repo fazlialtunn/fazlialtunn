@@ -27,9 +27,9 @@ I'm Fazlı Altun a Computer Science graduate student at **Brooklyn College (CUNY
 Here are some of the things I've been working on or experimenting with:
 
 ### 🧠 Machine Learning & Data
-- 📊 **[Learning Pandas](https://github.com/fazlialtunn/learning_pandas)** – beginner-to-intermediate practice notebooks based on real datasets
-- 📊 **[Learning Matplotlib](https://github.com/fazlialtunn/learning-matplotlib)** – beginner-to-intermediate practice notebooks based on real datasets
-- 📊 **[Learning Seaborn](https://github.com/fazlialtunn/learning-seaborn)** – beginner-to-intermediate practice notebooks based on real datasets
+- 📊 **[Learning Pandas](https://github.com/fazlialtunn/learning_pandas)**
+- 📊 **[Learning Matplotlib](https://github.com/fazlialtunn/learning-matplotlib)**
+- 📊 **[Learning Seaborn](https://github.com/fazlialtunn/learning-seaborn)**
 
 ### 📱 Mobile Projects (Past Highlights)
 - 🍔 [Yummie - Food Ordering App (Swift)](https://github.com/fazlialtunn/YummieSwift)
