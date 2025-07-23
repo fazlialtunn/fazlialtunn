@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Fazlı Altun — a Computer Science graduate student at **Brooklyn College (CUNY)**, originally from Istanbul, Turkey. After several years of mobile development, I'm now diving deep into **Machine Learning**, **Data Science**, and **AI engineering**. Welcome to my GitHub!
+I'm Fazlı Altun a Computer Science graduate student at **Brooklyn College (CUNY)**, originally from Istanbul, Turkey. After several years of mobile development, I'm now diving deep into **Machine Learning**, **Data Science**, and **AI engineering**. Welcome to my GitHub!
 
 ---
 
