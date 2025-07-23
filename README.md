@@ -1,43 +1,57 @@
 # Hi there! 👋
 
-I'm Fazlı Altun, a passionate Mobile Developer from Istanbul/Turkey. I am working as an iOS Developer intern in Orion Innovation. Welcome to my GitHub profile!
+I'm Fazlı Altun — a Computer Science graduate student at **Brooklyn College (CUNY)**, originally from Istanbul, Turkey. After several years of mobile development, I'm now diving deep into **Machine Learning**, **Data Science**, and **AI engineering**. Welcome to my GitHub!
 
-## 🚀 About Me
+---
 
-- 🎓 I'm currently a junior student majoring in Computer Engineering at Bahcesehir University.
-- 💻 I'm deeply interested in Mobile development especially with Swift & Flutter.
-- 🌱 I'm currently enhancing my iOS development skills with SwiftUI and UIKit.
+## 📚 About Me
 
-## 🔧 Technologies & Tools
+- 🎓 I'm currently pursuing my **Master's in Computer Science** at **Brooklyn College (CUNY)**.
+- 🤖 My current focus is **Machine Learning**, **Data Analysis**, and **AI systems**.
+- 🧠 I enjoy exploring how **human intuition meets algorithms** to build smarter models.
+- 📱 I have 2+ years of experience as a **Mobile Developer (iOS/Flutter)** — and I'm now integrating that background with ML in practical apps.
 
-Here are some technologies and tools that I'm familiar with:
+---
 
-- Swift, SwiftUI, UIKit
-- Xcode
-- CocoaPods
-- RESTful APIs
-- Flutter
-- Firebase
+## 🧰 Tools & Technologies
 
-  
-## 🛠️ Projects
+- **Languages**: Python, Swift, Dart  
+- **ML/DS**: Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, Colab, Jupyter  
+- **Dev Tools**: Git, GitHub, VS Code, Xcode  
+- **Platforms**: Firebase, REST APIs, iOS (UIKit & SwiftUI)
 
-Here are some projects that I'm proud of:
+---
 
-1. Yummie Food Ordering App with Swift https://github.com/fazlialtunn/YummieSwift
-    
+## 📌 Projects
 
-3. Education App for Dyslexic Kids https://github.com/fazlialtunn/learning-kotlin-wproject
-   
+Here are some of the things I've been working on or experimenting with:
 
-4. Zoom Clone with Flutter https://github.com/fazlialtunn/zoom-clone-flutter
-   
+### 🧠 Machine Learning & Data
+- 📊 **[Learning Pandas](https://github.com/fazlialtunn/learning_pandas)** – beginner-to-intermediate practice notebooks based on real datasets
+- 📊 **[Learning Matplotlib](https://github.com/fazlialtunn/learning-matplotlib)** – beginner-to-intermediate practice notebooks based on real datasets
+- 📊 **[Learning Seaborn](https://github.com/fazlialtunn/learning-seaborn)** – beginner-to-intermediate practice notebooks based on real datasets
 
-Feel free to explore my repositories to see more!
+### 📱 Mobile Projects (Past Highlights)
+- 🍔 [Yummie - Food Ordering App (Swift)](https://github.com/fazlialtunn/YummieSwift)
+- 🧒 [Education App for Dyslexic Kids (Kotlin)](https://github.com/fazlialtunn/learning-kotlin-wproject)
+- 📹 [Zoom Clone with Flutter](https://github.com/fazlialtunn/zoom-clone-flutter)
 
-## 📫 Let's Connect
+---
 
-- LinkedIn: https://www.linkedin.com/in/fazlialtunnn/
-- Twitter: https://twitter.com/faltungg
+## ✨ Goals
 
-Let's connect and build amazing things together! 😊
+- 📈 Build and publish machine learning projects end-to-end on GitHub
+- 🎯 Learn more about MLOps and cloud-based AI workflows
+- 🗂 Contribute to open-source ML/data science projects
+
+---
+
+## 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fazlialtunnn/)  
+- 🐦 [Twitter / X](https://twitter.com/faltungg)  
+- 💬 Always open to collaboration, mentorship, or just a good data discussion!
+
+---
+
+Thanks for visiting my profile — let’s build something smart together 🚀
