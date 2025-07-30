@@ -9,7 +9,7 @@ I'm Fazlı Altun a Computer Science graduate student at **Brooklyn College (CUNY
 - 🎓 I'm currently pursuing my **Master's in Computer Science** at **Brooklyn College (CUNY)**.
 - 🤖 My current focus is **Machine Learning**, **Data Analysis**, and **AI systems**.
 - 🧠 I enjoy exploring how **human intuition meets algorithms** to build smarter models.
-- 📱 I have 2+ years of experience as a **Mobile Developer (iOS/Flutter)** and I'm now integrating that background with ML in practical apps.
+- 📱 I have 2+ years of experience as a **Mobile Developer (iOS/Flutter)**
 
 ---
 
