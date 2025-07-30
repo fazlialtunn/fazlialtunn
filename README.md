@@ -27,11 +27,10 @@ I'm Fazlı Altun a Computer Science graduate student at **Brooklyn College (CUNY
 Here are some of the things I've been working on or experimenting with:
 
 ### 🧠 Machine Learning & Data
+- 📊 **[Basketball Analysis with YOLO & OpenCV](https://github.com/fazlialtunn/basketball-analysis-yolov5-opencv)**
+- 📊 **[Self Driving Car](https://github.com/fazlialtunn/self-driving-car)**
 - 📊 **[Breast Cancer Classification](https://github.com/fazlialtunn/breast-cancer-classification)**
 - 📊 **[Iris Classification](https://github.com/fazlialtunn/iris-classification)**
-- 📊 **[Learning Pandas](https://github.com/fazlialtunn/learning_pandas)**
-- 📊 **[Learning Matplotlib](https://github.com/fazlialtunn/learning-matplotlib)**
-- 📊 **[Learning Seaborn](https://github.com/fazlialtunn/learning-seaborn)**
 
 ### 📱 Mobile Projects (Past Highlights)
 - 🍔 [Yummie - Food Ordering App (Swift)](https://github.com/fazlialtunn/YummieSwift)
