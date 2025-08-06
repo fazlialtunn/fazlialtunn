@@ -27,9 +27,10 @@ I'm Fazlı Altun a Computer Science graduate student at **Brooklyn College (CUNY
 Here are some of the things I've been working on or experimenting with:
 
 ### 🧠 Machine Learning & Data
-- 📊 **[Basketball Analysis with YOLO & OpenCV](https://github.com/fazlialtunn/basketball-analysis-yolov5-opencv)**
-- 📊 **[Self Driving Car](https://github.com/fazlialtunn/self-driving-car)**
-- 📊 **[Breast Cancer Classification](https://github.com/fazlialtunn/breast-cancer-classification)**
+- 📊 **[Basketball Analysis with YOLO and OpenCV](https://github.com/fazlialtunn/basketball-analysis-yolov5-opencv)**
+- 📊 **[Self-Driving Car with Deep Learning (NVIDIA Model)](https://github.com/fazlialtunn/self-driving-car)**
+- 📊 **[End To End Advanced RAG Project with Llama2](https://github.com/fazlialtunn/rag-with-llama2)**
+- 📊 **[Breast Cancer Classification with Random Forest](https://github.com/fazlialtunn/breast-cancer-classification)**
 - 📊 **[Iris Classification](https://github.com/fazlialtunn/iris-classification)**
 
 ### 📱 Mobile Projects (Past Highlights)
